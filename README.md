@@ -6,7 +6,7 @@ App for generating random quotes from the hit tv show Parks and Recreation.
 
 This is built with:
 
-* Javascript
+* Javascript ES6
 
 ## Setup
 
